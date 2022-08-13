@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [arsl-coder.ml](arsl-coder.ml)
+- 👨‍💻 All of my projects are available at [arsl-coder.ml](https://www.arsl-coder.ml)
 Ask me about **NodeJS, ReactJS, TypeScript, NextJS, NestJS, Redux, VanillaJS,  MongoDB, SQL or any other tech related stuff**
 
 - 📫 How to reach me **thaheem001@gmail.com**
